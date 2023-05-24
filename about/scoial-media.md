@@ -16,6 +16,10 @@ Admins will NEVER send you a direct message. If anybody approaches you directly 
 
 * [@Zeron\_Protocol](https://twitter.com/Zeron\_Protocol)
 
+## Discord
+
+* [https://discord.gg/k2mryMc6KP](https://discord.gg/k2mryMc6KP)
+
 ## Telegram
 
 * TBD
