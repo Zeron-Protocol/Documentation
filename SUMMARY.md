@@ -8,9 +8,9 @@
 * [✨ Why Zeron?](general/why-zeron.md)
 * [📌 RoadMap](general/roadmap.md)
 * [🚀 How does Zeron work](general/how-does-zeron-work/README.md)
-  * [Fixed-price Contract](general/how-does-zeron-work/fixed-price-contract.md)
-  * [Hourly Contract](general/how-does-zeron-work/hourly-contract.md)
-  * [Milestone Contract](general/how-does-zeron-work/milestone-contract.md)
+  * [✅ Fixed-price Payment](general/how-does-zeron-work/fixed-price-payment.md)
+  * [⚠ Hourly Payment](general/how-does-zeron-work/hourly-payment.md)
+  * [⚠ Milestone Payment](general/how-does-zeron-work/milestone-payment.md)
 * [⚖ Arbitral](general/arbitral.md)
 
 ## Ecosystem

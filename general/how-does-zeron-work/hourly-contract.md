@@ -1,3 +1,0 @@
-# Hourly Contract
-
-### TBD
