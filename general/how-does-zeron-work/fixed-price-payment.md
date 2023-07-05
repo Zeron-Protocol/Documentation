@@ -16,7 +16,7 @@ By leveraging Zeron Payments, users can streamline their payment processes and e
 
 To access the Zeron App, follow these steps:
 
-1. Open your web browser and navigate to [Zeron App Website](https://app.zeron.work/).
+1. Open your web browser and navigate to [Zeron App Website](https://scroll.zeron.work).
 2. On the homepage, click on the "Connect" button.
 3. If you already have a wallet connected to your browser, it will automatically connect to Zeron Router. If not, you will be prompted to connect your wallet. Select your preferred wallet provider and follow the instructions to connect.
 4. Once your wallet is connected, you will be redirected to the Zeron Payments dashboard.
