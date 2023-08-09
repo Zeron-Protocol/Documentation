@@ -19,7 +19,4 @@ Zeron Protocol smart contracts will also be deployed on other side-chains and bl
 According to the project plan, Zeron Protocol will be gradually operating on:
 
 * **Ethereum Blockchain** : **crvUSD**, **DAI**, **cDAI**, **USDC**, **BUSD** & **USDT**,
-* **Binance Smart Chain**: **USDC, USDT** & **BUSD**,
-* **Optimism**, as a Layer-2 for **ETH** (Ethereum),
-* **Arbitrum One**, as a Layer-2 **ETH** (Ethereum),
-* **Scroll**, as a Layer-2 **ETH** (Ethereum).
+* **Scroll**, as a Layer-2 **ETH** (Ethereum): **USDC, DAI**.
