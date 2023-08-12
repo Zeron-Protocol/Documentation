@@ -22,7 +22,7 @@ Admins will NEVER send you a direct message. If anybody approaches you directly 
 
 ## Telegram
 
-* TBD
+* [https://t.me/Zeron\_Protocol](https://t.me/Zeron\_Protocol)
 
 ## GitHub
 
