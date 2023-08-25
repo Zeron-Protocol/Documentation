@@ -7,4 +7,11 @@
 Zeron Token: 0xD4B6efD2E6B87Ce8C10b055B57DD1975D454d77f
 </code></pre>
 
+### Scroll-Sepolia Testnet <a href="#aulit" id="aulit"></a>
+
+<pre><code><strong>Zeron V1 Router: 0xD29b65c4f51ae4F831adB255cb35fcba403CA7BB
+</strong>Zeron V1 Arbitral: 0xA4DC0376a8b519Da4A3d640328f2f1BF07112E68
+Zeron Token: 0x66d4Ddd336324a166eb18cD364963bd86F7CcFA1
+</code></pre>
+
 Please visit [https://scroll.zeron.work/](https://scroll.zeron.work/) to experience it firsthand.
