@@ -17,7 +17,6 @@
 
 * [💰 $ZNT](ecosystem/usdznt/README.md)
   * [Token Economics](ecosystem/usdznt/token-economics.md)
-  * [Token ICO Plan](ecosystem/usdznt/token-ico-plan.md)
 * [🏦 Staking](ecosystem/staking.md)
 * [🏢 Governance](ecosystem/governance.md)
 * [📒 Smart Contracts](ecosystem/smart-contracts.md)
