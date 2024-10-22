@@ -19,6 +19,7 @@ Zeron Token: 0x66d4Ddd336324a166eb18cD364963bd86F7CcFA1
 <pre><code><strong>Zeron V1 Router: 0xE8ED72512647658068F5245B615291B2922e9538
 </strong>Zeron V1 Arbitral: 0xcb4e3418496Af14d68fcC3318335678b4155B61E
 Zeron Token: 0x78F4b0fcF6C1D8aAe93DA9DB02B6b145A8A34478
+MultiSig Vault: 0xFdFc7e178c77fb0295Bf69e85cE43E54692815A2
 </code></pre>
 
 Please visit [https://scroll.zeron.work/](https://scroll.zeron.work/) to experience it firsthand.

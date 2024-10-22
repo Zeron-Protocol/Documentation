@@ -9,9 +9,9 @@
 * [📌 RoadMap](general/roadmap.md)
 * [🚀 How does Zeron work](general/how-does-zeron-work/README.md)
   * [✅ Fixed-price Payment](general/how-does-zeron-work/fixed-price-payment.md)
-  * [⚠ Hourly Payment](general/how-does-zeron-work/hourly-payment.md)
-  * [⚠ Milestone Payment](general/how-does-zeron-work/milestone-payment.md)
-* [⚖ Arbitral](general/arbitral.md)
+  * [⚠️ Hourly Payment](general/how-does-zeron-work/hourly-payment.md)
+  * [⚠️ Milestone Payment](general/how-does-zeron-work/milestone-payment.md)
+* [⚖️ Arbitral](general/arbitral.md)
 
 ## Ecosystem
 
@@ -24,5 +24,5 @@
 ## About
 
 * [📞 Scoial Media](about/scoial-media.md)
-* [🕶 About us](about/about-us.md)
+* [🕶️ About us](about/about-us.md)
 * [🔍 FAQS](about/faqs.md)
